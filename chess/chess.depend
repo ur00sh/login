@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1626492290 source:/home/yakuzaki/Documents/chess/main.cpp
-	<fstream>
-	<iostream>
-	<limits>
-	<string>
-
